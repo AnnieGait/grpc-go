@@ -1,0 +1,19 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": null,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "go.autocompleteUnimportedPackages": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "gopls": {
+        "build.allowImplicitNetworkAccess": false,
+        "build.allowModfileModifications": false,
+        "build.expandWorkspaceToModule": true,
+        "build.experimentalPackageCacheKey": true,
+        "build.experimentalWorkspaceModule": false,
+        "ui.documentation.hoverKind": "FullDocumentation",
+        "ui.completion.usePlaceholders": true,
+    },
+}
